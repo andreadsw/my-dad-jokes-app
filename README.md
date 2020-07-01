@@ -20,4 +20,4 @@ You will also see any lint errors in the console.
 
 ## Demo my Dad Jokes app
 
-See the link: https://dazzling-spence-221ef9.netlify.app/
+See the link: <a href="https://my-dad-jokes-app.netlify.app/" target="_blank">My Dad Jokes app</a>
